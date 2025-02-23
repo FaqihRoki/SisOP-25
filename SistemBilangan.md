@@ -2,6 +2,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/8a53bec9-2a18-4d15-8889-2bd3ce1d9467)
+
 <b>Dosen Pengempu:
 Dr.ferry Astika Saputra ST,M.Sc
 Disusun oleh :
