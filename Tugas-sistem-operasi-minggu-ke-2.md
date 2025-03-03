@@ -78,7 +78,6 @@ Timers can be used to compute the current time by setting an initial reference t
 
 ### 1.15 Explain how the Linux kernel variables HZ and jiffies can be used to determine the number of seconds the system has been running since it was booted.
 **The Linux kernel variables HZ and jiffies are used to measure time. HZ represents the number of clock ticks per second, and jiffies is a counter that increments with each clock tick. To determine the number of seconds the system has been running since it was booted, divide the value of jiffies by HZ.**
-## Practice Exercise
 
 ### 1.16 Direct memory access is used for high-speed I/O devices in order to avoid increasing the CPU's execution load.
 a. The CPU interfaces with the device to coordinate the transfer using control signals and registers to initiate and manage the data transfer process.
