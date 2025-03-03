@@ -1,3 +1,11 @@
+![Image](https://github.com/user-attachments/assets/8a53bec9-2a18-4d15-8889-2bd3ce1d9467)
+
+<b>Dosen Pengempu:
+Dr.ferry Astika Saputra ST,M.Sc
+
+Disusun oleh :
+Abdullah Faqih(3124521026)D3-LA-IT-A</b>
+
 ## Practice Exercise
 
 ### 1.1 What are the three main goals of an operating system?
