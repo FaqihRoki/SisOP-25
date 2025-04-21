@@ -1,3 +1,18 @@
+# TUGAS SISTEM OPERASI 6
+
+---
+
+![Image](https://github.com/user-attachments/assets/838b068c-4d85-452a-aca6-352d279fbd3f)
+
+#### Dosen Pengampu :
+**Dr. Ferry Astika Saputra ST, M.Sc**
+
+#### Disusun oleh :
+**Abdullah Faqih**
+**(3124521026)**
+D3-LA IT-A
+
+<br>
 
 
 # FORK: PARENT - CHILD PROCESS
